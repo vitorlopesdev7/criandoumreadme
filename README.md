@@ -1,6 +1,6 @@
 # criandoumreadme
 ## Segue abaixo um teste de inserção de gif para formatação de texto
-### Esta linha é a formatação menor que o subtítulo
+### Esta linha é a formatação menor que o subtítulo, onde utiliza-se três hastags
                  criando um belo arquivo readme
 
 ![gifdosgatos](https://github.com/vitorlopesdev7/criandoumreadme/blob/master/Gatos-Gifs-Engra%C3%A7ados.gif)
