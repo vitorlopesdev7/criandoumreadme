@@ -6,7 +6,9 @@ Para inserir o gif, será necessário utilizar a seguinte linha de comandos:
 ![gifdosgatos](https://endereço do seu gif.gif)
 ```
 
-### Esta linha é a formatação menor que o subtítulo, onde utiliza-se três hastags
+Isto fara com que seu gif seja exibido na pagina da qual está editando.
+
+### para formatar imagens:
                  criando um belo arquivo readme
 
 ![gifdosgatos](https://github.com/vitorlopesdev7/criandoumreadme/blob/master/Gatos-Gifs-Engra%C3%A7ados.gif)
