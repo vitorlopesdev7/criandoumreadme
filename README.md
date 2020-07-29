@@ -5,7 +5,7 @@ Para inserir o gif, será necessário utilizar a seguinte linha de comandos:
 ```
 ![gifdosgatos](https://endereço do seu gif.gif)
 ```
-e o arquivo exibirá o gif:
+E o arquivo exibirá o gif:
 
 ![gifdosgatos](https://github.com/vitorlopesdev7/criandoumreadme/blob/master/Gatos-Gifs-Engra%C3%A7ados.gif)
 
