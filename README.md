@@ -28,3 +28,4 @@ Resultado do código acima:
   <img width="460" height="300" src="https://github.com/vitorlopesdev7/criandoumreadme/blob/master/vitor.jpg">
 </p>
 
+Tambem sento possivel ainhar a imagem ao lado direito ou esquerdo de acordo com a formatação HTML.
