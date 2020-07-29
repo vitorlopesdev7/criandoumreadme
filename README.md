@@ -10,7 +10,7 @@ e o arquivo exibirá o gif:
 ![gifdosgatos](https://github.com/vitorlopesdev7/criandoumreadme/blob/master/Gatos-Gifs-Engra%C3%A7ados.gif)
 
 
-Isto fara com que seu gif seja exibido na pagina da qual está editando.
+Isto fará com que seu gif seja exibido na pagina da qual está editando.
 
 ### Para formatar imagens:
                  criando formatação de imagens
